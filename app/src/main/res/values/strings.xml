@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Twnel Camera</string>
+    <string name="take_picture">Tomar Foto</string>
+    <string name="try_again">Intentar de nuevo</string>
+    <string name="face_detected">Cara Detectada</string>
+    <string name="no_face_detected">Ninguna cara detectada</string>
+
+
+</resources>
